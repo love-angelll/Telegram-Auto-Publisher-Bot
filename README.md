@@ -30,7 +30,7 @@ pip install -r requirements.txt
 {
     "TOKEN": "YOUR_BOT_TOKEN",
     "CHANNEL_ID": "@your_channel",  
-    "INTERVAL": 300
+    "INTERVAL": 300 // указывать в секундах (это по умолчанию 5 минут)
 }
 ```
 ### Описание параметров:
